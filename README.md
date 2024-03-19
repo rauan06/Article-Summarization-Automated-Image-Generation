@@ -10,4 +10,4 @@ Wand - provides Python bindings to ImageMagick and helps in overlaying text over
 Numpy - summarization algorithms. 
 
 
-Note: Will update it after I learn some HTML/CSS/JS
+Note: Lame

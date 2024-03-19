@@ -72,6 +72,10 @@ with Image(blob = image_blob.content) as img:
     img.crop(*resize[1])
     img.save(filename='croped_2.jpg')
 
+
+
+
+
 # for sentence in summarizer(parser.document, SENTENCES_COUNT):
 #     print(sentence)
 
